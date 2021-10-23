@@ -1,4 +1,0 @@
-hallo from Linux
-hallo from win1
-hallo from Linux2
-
